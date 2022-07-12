@@ -2,14 +2,8 @@
 
 <div align="center">
 <p align="center">Let's connect!</p>
-<a href="https://wa.me/+919479592970">
-    <img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
 <a href="https://t.me/parvezkhan0918">
     <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-<a href="https://msng.link/o/?919479592970=vi">
-    <img src="https://img.shields.io/badge/Viber-59267c?style=for-the-badge&logo=viber&logoColor=white" />
 </a>
 <a href="https://join.skype.com/uCSobhi7SgIB">
     <img src="https://img.shields.io/badge/Skype-00aff0?style=for-the-badge&logo=skype&logoColor=white" />
@@ -45,22 +39,9 @@
 <a href="https://stackoverflow.com/users/19006964/parvez-khan?tab=profile">
     <img src="https://img.shields.io/badge/Quora-AA2200?style=for-the-badge&logo=quora&logoColor=white" />
 </a>
-<a href="https://www.facebook.com/parvezkhan0918/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<a href="https://twitter.com/parvezkhan0918/">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-
-<a href="https://www.instagram.com/parvezkhan0918/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
 
 <a href="https://www.linkedin.com/in/parvezkhan0918/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.youtube.com/channel/UCzK3z0XY6oamgsC4cuEcEVA">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 <a href="https://in.pinterest.com/parvezkhan0918/">
     <img src="https://img.shields.io/badge/Pinterest-E60023.svg?&style=for-the-badge&logo=pinterest&logoColor=white" />
