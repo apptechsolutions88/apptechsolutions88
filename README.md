@@ -48,7 +48,7 @@
 <a href="https://stackoverflow.com/users/19006964/parvez-khan?tab=profile">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
-<a href="https://stackoverflow.com/users/19006964/parvez-khan?tab=profile">
+<a href="https://stackoverflow.com/users/19006964/app-tech-solutions">
     <img src="https://img.shields.io/badge/Quora-AA2200?style=for-the-badge&logo=quora&logoColor=white" />
 </a>
 
