@@ -41,14 +41,14 @@
 <a href="https://medium.com/@apptechsolutions88">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
-<a href="https://www.reddit.com/user/parvezkhan0918">
+<a href="https://www.reddit.com/user/apptechsolutions88">
     <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white" />
 </a>
 
-<a href="https://stackoverflow.com/users/19006964/parvez-khan?tab=profile">
+<a href="https://stackoverflow.com/users/19006964/app-tech-solutions">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
-<a href="https://stackoverflow.com/users/19006964/app-tech-solutions">
+<a href="">
     <img src="https://img.shields.io/badge/Quora-AA2200?style=for-the-badge&logo=quora&logoColor=white" />
 </a>
 
