@@ -38,7 +38,7 @@
 <a href="https://parvezkhan0918.blogspot.com/">
     <img src="https://img.shields.io/badge/Blogger-fc4f08?style=for-the-badge&logo=blogger&logoColor=white" />
 </a>
-<a href="https://medium.com/@parvezkhan0918/">
+<a href="https://medium.com/@apptechsolutions88">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 <a href="https://www.reddit.com/user/parvezkhan0918">
