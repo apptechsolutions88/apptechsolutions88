@@ -2,6 +2,18 @@
 
 <div align="center">
 <p align="center">Let's connect!</p>
+<a href="https://www.facebook.com/apptechsolutions88/">
+    <img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="https://twitter.com/AppTechSolutio1">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/apptechsoluti/">
+    <img src="https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/channel/UCmfYHxoEsVKu6l1HQBcIYHA">
+    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
 <a href="https://t.me/apptechsolutions88">
     <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
@@ -40,19 +52,19 @@
     <img src="https://img.shields.io/badge/Quora-AA2200?style=for-the-badge&logo=quora&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/parvezkhan0918/">
+<a href="">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://in.pinterest.com/parvezkhan0918/">
+<a href="https://in.pinterest.com/apptechsolutions8/">
     <img src="https://img.shields.io/badge/Pinterest-E60023.svg?&style=for-the-badge&logo=pinterest&logoColor=white" />
 </a>
-<a href="">
+<a href="https://www.flickr.com/people/196078254@N04/">
     <img src="https://img.shields.io/badge/Flickr-ff0084.svg?&style=for-the-badge&logo=flickr&logoColor=white" />
 </a>
-<a href="https://foursquare.com/user/1389438520">
+<a href="https://foursquare.com/apptechsolutio1">
     <img src="https://img.shields.io/badge/Foursquare-25a0ca.svg?&style=for-the-badge&logo=foursquare&logoColor=white" />
 </a>
-<a href="">
+<a href="https://app-tech-solutions.tumblr.com/">
     <img src="https://img.shields.io/badge/Tumblr-34526f.svg?&style=for-the-badge&logo=tumblr&logoColor=white" />
 </a>
 
