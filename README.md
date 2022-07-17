@@ -35,7 +35,7 @@
 <a href="https://dribbble.com/apptechsolutions88">
     <img src="https://img.shields.io/badge/Dribbble-ea4c89?style=for-the-badge&logo=dribbble&logoColor=white" />
 </a>
-<a href="">
+<a href="https://app-tech-solutions.blogspot.com/">
     <img src="https://img.shields.io/badge/Blogger-fc4f08?style=for-the-badge&logo=blogger&logoColor=white" />
 </a>
 <a href="https://medium.com/@apptechsolutions88">
