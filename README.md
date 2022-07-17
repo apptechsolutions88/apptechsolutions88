@@ -32,10 +32,10 @@
 <a href="https://www.freelancer.com/u/parvezkhan0918">
     <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" />
 </a>
-<a href="https://dribbble.com/parvezkhan0918">
+<a href="https://dribbble.com/apptechsolutions88">
     <img src="https://img.shields.io/badge/Dribbble-ea4c89?style=for-the-badge&logo=dribbble&logoColor=white" />
 </a>
-<a href="https://parvezkhan0918.blogspot.com/">
+<a href="">
     <img src="https://img.shields.io/badge/Blogger-fc4f08?style=for-the-badge&logo=blogger&logoColor=white" />
 </a>
 <a href="https://medium.com/@apptechsolutions88">
