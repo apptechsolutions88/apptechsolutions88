@@ -23,7 +23,7 @@
 <a href="https://zoom.us/j/4663435953?pwd=bjBBbW1VTGc2bVBSVTduNDdpV1pQQT09">
     <img src="https://img.shields.io/badge/Zoom-2d8cff?style=for-the-badge&logo=zoom&logoColor=white" />
 </a>
-<a href="https://www.fiverr.com/parvezkhan0918">
+<a href="https://www.fiverr.com/apptechsolutio">
     <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
 </a>
 <a href="https://www.upwork.com/freelancers/~0118c5ce7db3f071da">
