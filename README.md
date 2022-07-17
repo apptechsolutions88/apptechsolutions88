@@ -26,7 +26,7 @@
 <a href="https://www.fiverr.com/apptechsolutio">
     <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
 </a>
-<a href="https://www.upwork.com/freelancers/~0118c5ce7db3f071da">
+<a href="https://www.upwork.com/freelancers/~01d3ae8304fa5707a6">
     <img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white" />
 </a>
 <a href="https://www.freelancer.com/u/parvezkhan0918">
