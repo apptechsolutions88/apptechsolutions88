@@ -52,7 +52,7 @@
     <img src="https://img.shields.io/badge/Quora-AA2200?style=for-the-badge&logo=quora&logoColor=white" />
 </a>
 
-<a href="">
+<a href="https://www.linkedin.com/company/app-techsolutions/about/?viewAsMember=true">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://in.pinterest.com/apptechsolutions8/">
