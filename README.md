@@ -29,7 +29,7 @@
 <a href="https://www.upwork.com/freelancers/~01d3ae8304fa5707a6">
     <img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white" />
 </a>
-<a href="https://www.freelancer.com/u/parvezkhan0918">
+<a href="https://www.freelancer.com/u/pkhansmart338">
     <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" />
 </a>
 <a href="https://dribbble.com/apptechsolutions88">
